@@ -111,7 +111,7 @@ const About = () => {
               <Title> Hello, I’m Amir </Title>
               <Text>I'm a former Sommelier and US Marine turned software developer from <b className="text-primary lined-link">Denver, Colorado</b></Text>
               <Text> I love working with modern technologies, as well as building and designing awesome projects. I try to use every opportunity to challenge both hemispheres of my brain and I'm always in a consistent state of self improvement. </Text>
-              <Text>I'm a highly positive, focused, and organized person, I bring with me the immense potential to handle challenges and opportunities equally with undying enthusiasm and growth mindset. I am easy to work with, adapt quickly in a team environment, and good at anticipating the needs and concerns in any team collaboration.</Text>
+              <Text>I'm a highly focused, optomistic, and organized person. I have the distinct ability to take on whatever challenges may present themselves, with fortitude and diligence. I am easy to work with, and I adapt quickly in a team environment. I am able to direct and take direction seemlessly to ensure the greatest chances for optimization. </Text>
               <ResumeButton href="resume_amir_harrison.pdf" target="_blank"> Download resume </ResumeButton>
             </div>
           </AboutSection>
