@@ -20,7 +20,7 @@ const Footer = () => {
 							))}
 						</FooterSocialMedia>
 						<div>
-							<p className="text-primary quote"> Please don't hesitate to reach out. I love connecting with other folks who are passionate about tech.</p>
+							<p className="text-primary quote"> Would you like to know more? Contact me with any questions or comments you have. </p>
 							<ButtonDefault href={`mailto:${data.SiteContact.email}`}> Contact me </ButtonDefault>
 
 						</div>
