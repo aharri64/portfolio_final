@@ -11,18 +11,22 @@ const Navbar = ({ siteTitle }) => (
       <NavbarElement>
         <NavbarLogo>
           <h3>
-            <Link to="/">
+            <a href="/">
               <Anchor className="align-middle" />
               <span className="align-middle"> {siteTitle} </span>
-            </Link>
+            </a>
           </h3>
         </NavbarLogo>
         <div className="main-navigation">
           <NavbarList>
-            <li><Link to="/" className="lined-link" activeClassName="active"> <User /> <span> About </span> </Link></li>
+            {/* <li><a href="/blog">blog</a></li> */}
+            {/* <li><Link to="/" className="lined-link" activeClassName="active"> <User /> <span> About </span> </Link></li>
             <li><Link to="/blog" className="lined-link" activeClassName="active"> <Feather /> <span> Projects </span> </Link></li>
-            <li><Link to="/works" className="lined-link" activeClassName="active"> <Briefcase /> <span> Resume </span> </Link></li>
-            {/* <li><Link to="/repositories" className="lined-link" activeClassName="active"> <GitHub /> <span> Github </span> </Link></li> */}
+            <li><Link to="/works" className="lined-link" activeClassName="active"> <Briefcase /> <span> Resume </span> </Link></li> */}
+            <li><a href="/" className="lined-link" activeClassName="active"> <User /> <span> About </span> </a></li>
+            <li><a href="/blog" className="lined-link" activeClassName="active"> <Feather /> <span> Projects </span> </a></li>
+            <li><a href="/works" className="lined-link" activeClassName="active"> <Briefcase /> <span> Resume </span> </a></li>
+
           </NavbarList>
         </div>
       </NavbarElement>
