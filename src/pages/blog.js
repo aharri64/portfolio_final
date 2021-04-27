@@ -23,7 +23,7 @@ const BlogIndex = ({ data }) => {
             </SubTitle>
             <HeaderIntro>
               <SubText>
-                Below is a collection of my most recent projects from newest to oldest. Each project comes with a link to the github repository and the live site. For a complete list please follow this link: <a href="https://github.com/aharri64"> My Github Repository </a>
+                Below is a collection of my most recent projects from newest to oldest. Each project comes with a link to the github repository and the live site. For a complete list please follow this link: <a href="https://github.com/aharri64" target="_blank"> My Github Repository </a>
               </SubText>
               <CategoriesTags />
             </HeaderIntro>

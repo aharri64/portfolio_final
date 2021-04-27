@@ -8,9 +8,9 @@ categories: ['Node.js', 'Express.js', 'EJS', 'JavaScript', 'Sequelize', 'Postgre
 description: "Kraterologist is a cocktail application where Bartenders, Bar Managers, Restaurateurs, Aficionados, and Enthusiasts can gather to collaborate, brainstorm, and learn about classic cocktails and variations on which. Signup for an account and start searching for your favorite cocktails, adapt them to your needs, and explore new variations. Happy mixing!"  
 ---
 
-[Kraterologist Repository](https://github.com/aharri64/VinDisBrew)
+<a href="https://github.com/aharri64/VinDisBrew" target="_blank">Kraterologist Repository</a>
 
-[Kraterologist Deployed Site](https://kraterologist.herokuapp.com/)
+<a href="https://kraterologist.herokuapp.com/" target="_blank">Kraterologist Deployed Site</a>
 
 Kraterologist is a cocktail application where Bartenders, Bar Managers, Restaurateurs, Aficionados, and Enthusiasts can gather to collaborate, brainstorm, and learn about classic cocktails and variations on which. Signup for an account and start searching for your favorite cocktails, adapt them to your needs, and explore new variations. 
 

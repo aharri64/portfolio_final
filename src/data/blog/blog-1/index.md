@@ -8,10 +8,11 @@ date: "2021-01-31T22:12:03.284Z"
 time: 3
 description: "Spaceman is a sightly less gruesome version of hangman. This was my first full application completely built on my own. It was built with HTML, CSS, and vanilla JavaScript."
 ---
+<a href="https://github.com/aharri64/Spaceman" target="_blank">Spaceman Repository</a>
 
-[Spaceman Repository](https://github.com/aharri64/Spaceman)
+<a href="https://aharri64.github.io/Spaceman/" target="_blank">Spaceman Deployed Site</a>
 
-[Spaceman Deployed Site](https://aharri64.github.io/Spaceman/)
+
 
 Spaceman is a sightly less gruesome version of hangman. This was my first full application completely built on my own. It was built with HTML, CSS, and vanilla JavaScript.
 

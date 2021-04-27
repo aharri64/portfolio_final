@@ -8,10 +8,11 @@ time:
 categories: ['Django', 'Python', 'JavaScript', 'PostgreSQL', 'CSS', 'HTML']
 description: "Space Bar is a space-centric forum style application where users can discuss and mingle with other space-minded users"
 ---
+<a href="https://github.com/aharri64/Spacebar" target="_blank">Space Bar Repository</a>
 
-[Space Bar Repository](https://github.com/aharri64/Spacebar)
+<a href="https://spacebarapp.herokuapp.com/" target="_blank">Space Bar Deployed Site</a>
 
-[Space Bar Deployed Site](https://spacebarapp.herokuapp.com/)
+
 
 Space Bar is a space-centric forum style application where users can discuss and mingle with other space-minded users. Any user may create a group, join a group, and make a post on any group to which they are a part of. 
 

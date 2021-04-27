@@ -24,9 +24,9 @@ const About = () => {
             <div>
               <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
               <SubTitle>Full-Stack Developer</SubTitle>
-              <div class="devicon" width="50px">
+              <div className="devicon" width="50px">
                 <div className="content_img">
-                  <DevIcon icon="react" width="40" />
+                  <DevIcon icon="react" width="40" margin="10px" />
                   <div>React</div>
                 </div>
                 <div className="content_img">
@@ -109,9 +109,9 @@ const About = () => {
             </div>
             <div>
               <Title> Hello, I’m Amir </Title>
-              <Text>I'm a former Sommelier and US Marine turned software developer from <b className="text-primary lined-link">Denver, Colorado</b></Text>
+              <Text>I'm a former Sommelier and US Marine turned software developer from <b className="text-primary lined-link">Denver, Colorado</b>.</Text>
               <Text> I love working with modern technologies, as well as building and designing awesome projects. I try to use every opportunity to challenge both hemispheres of my brain and I'm always in a consistent state of self improvement. </Text>
-              <Text>I'm a highly focused, optomistic, and organized person. I have the distinct ability to take on whatever challenges may present themselves, with fortitude and diligence. I am easy to work with, and I adapt quickly in a team environment. I am able to direct and take direction seemlessly to ensure the greatest chances for optimization. </Text>
+              <Text>I'm a highly focused, optimistic, and organized person. I have the distinct ability to take on whatever challenges may present themselves, with fortitude and diligence. I am easy to work with, and I adapt quickly in a team environment. I am able to direct and take direction seamlessly to ensure the greatest chances for optimization. </Text>
               <ResumeButton href="resume_amir_harrison.pdf" target="_blank"> Download resume </ResumeButton>
             </div>
           </AboutSection>

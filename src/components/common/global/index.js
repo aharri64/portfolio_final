@@ -117,9 +117,14 @@ export const GlobalStyle = createGlobalStyle`
       // width: 150px;
       padding: 8px 15px;
       visibility: visible;
-      opacity: 0.9; 
+      opacity: 0.95; 
+      border-radius: 10px;
+      // color: blue;
+      background-color: darkgreen;
       font-size: 20px;
-      text-align: center;
+      // text-align: center;
+      margin: 0 0 45px 30px;
+
     }
 
     img {

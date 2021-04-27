@@ -2,7 +2,7 @@ module.exports = {
   SiteTitle: 'Amir Harrison',
   Sitelogo: '#',
   SiteLogoText: 'AmirHarrison',
-  SiteAuthor: 'Amir Harrison',
+  SiteAuthor: 'Amir Scott Harrison',
   SiteDescription: 'Full Stack Developer',
   defaultDescription: 'Software engineer!',
   githubApiQuery: `query ($number_of_repos: Int!) {

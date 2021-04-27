@@ -32,7 +32,7 @@ const Footer = () => {
 							{/* <span> {new Date().getFullYear()}, Built {` `}
 								<a href="https://www.gatsbyjs.org">Gatsby</a>{" "}
 							</span> */}
-							Copyright 2021 by {data.SiteAuthor} |(720) 252-9844 | <a href={'mailto:haveacompleteday@gmail.com'}>haveaceomplteday@gmail.com</a> </CopyRight>
+							Copyright 2021 by {data.SiteAuthor} | (720) 252-9844 | <a href={'mailto:haveacompleteday@gmail.com'}>haveacompleteday@gmail.com</a> </CopyRight>
 					</div>
 				</ContainerLayout>
 			</FooterStyle>

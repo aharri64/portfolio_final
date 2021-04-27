@@ -12,9 +12,13 @@ export const AboutSection = styled.section`
   }
   .devicon {
     text-align: center;
-    padding: 10px;
+    // padding: 10px;
     
+    // margin: 10px;
   }
+  // .devicon-svg {
+  //   background-color: red;
+  // }
 `
 
 // export const devIconStyle = styled(DevIcon)`
